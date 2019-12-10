@@ -1,4 +1,5 @@
-# nlp-lifecycle-project-fall2019
+# language-processing-lifecycle-fall2019
+
 Natural Language Processing Product Lifecycle Project
 
 Files related to course project for CSML1010 - Applied Machine Learning and Lifecycle - Fall 2019
